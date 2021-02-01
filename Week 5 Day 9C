@@ -1,0 +1,10 @@
+<html>
+<head> <title> Week 5 day 9C </title> </head>
+<frameset rows ="30%,40%,30%">
+<frame src = "FUCHSIA.html">
+<frame src = "GREEN.html">
+<frameset cols = "50%,50%">
+<frame src = "FUCHSIA.html">
+<frame src = "GREEN.html">
+</frameset> </frameset>
+<html>
